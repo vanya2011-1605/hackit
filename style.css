@@ -1,0 +1,57 @@
+
+* {
+	padding:0;
+	margin:0; 
+	box-sizing: border-box;
+}
+.about_film{
+	height:100vh;
+	background-image: url(images/How-To-Train-Your-Dragon-Header-e1687293096422.png);
+	background-size:color;
+}
+.about_film{
+	height:100vh;
+	background-image:color;
+	background-attachment:fixed;
+	display:flex;
+}
+.about_film input{
+	display:none;
+}
+.about_film label {
+	display:block;
+	box-shadow: 2px 0 8px black, -2px 0 5px 1px white;
+	cursor: pointer;
+}
+
+.about_film div{
+	overflow:hidden;
+	width:0;
+	background-color:rgba(209, 238, 255, 0.8);
+	transition:width .5s;
+}
+
+		div:nth-of-type(1) img,
+		div:nth-of-type(1) img,
+		div:nth-of-type(1) img{
+		float:right;
+}
+	
+
+
+
+  header{
+	  height: 100vh;
+	  background-image: url(images/618502.jpg);
+	  background-size:cover;
+	  position:relative;
+	  box-shadow: 2px 0 8px 2px black, -2px 0 5px 1px white;
+  }
+  
+ nav{
+	 position: absolute;
+	 top:15px;
+	 left:15px;
+	 
+ }
+	
